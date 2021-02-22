@@ -1,2 +1,3 @@
-# irisdatasetexercise
-ML exercise with iris data
+# Iris Flower Dataset Exercise
+ML exercise with iris dataset.
+
