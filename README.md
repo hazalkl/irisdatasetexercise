@@ -1,3 +1,3 @@
 # Iris Flower Dataset Exercise
-ML exercise with iris dataset.
+ML exercise with Iris Flower dataset. Model is XGBoost.
 
